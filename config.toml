@@ -1,0 +1,8 @@
+baseURL = "http://dev-node.finotto.io/"
+languageCode = "en-us"
+title = "Michele Finotto"
+theme = "hyde"
+
+[params]
+themeColor = "theme-base-0d"
+description = "Containerized backend developer. Gopher with a knack for rubies."
