@@ -13,6 +13,31 @@ I also quite like to play with databases: I’ve been using **MySQL** and **Post
 
 In the past, I ran my own dev shop with a couple of high school friends and we were the first to build large scale Rails websites in Italy which led to me moderating panels at Pycon Italia and Rails to Italy.
 
-Now a freelancer, currently working as Lead Backend Developer for [NearIT], an Italian startup developing a best-in-class contextual mobile engagement platform. Cool product, amazing team, definitely give it a try if you’re in the market for something like it.
+Now a freelancer, currently working as Lead Backend Developer for [NearIT](https://www.nearit.com/), an Italian startup developing a best-in-class contextual mobile engagement platform. Cool product, amazing team, definitely give it a try if you’re in the market for something like it.
 
-If you want to contact me my email is `m@the-domain-you're-currently-on`. I’m always open to talk about Web development, startups, business ideas.
+If you want to contact me, my email is `m@the-domain-you're-currently-on`. I’m always open to talk about Web development, startups, business ideas.
+
+### Tech Stack
+
+#### Languages
+
+Go, Ruby, Python, JS, C/C++
+
+#### Datastores
+
+PostgreSQL, MySQL, Redis, Memcached, InfluxDB, DynamoDB, AWS Aurora, RethinkDB, RabbitMQ, AWS SQS, Elasticsearch
+
+#### Tools
+
+Kubernetes, AWS ECS, AWS CloudFormation, Docker
+
+### Dev Environment
+
+#### Editor
+
+Neovim
+
+#### OS
+
+Archlinux
+
