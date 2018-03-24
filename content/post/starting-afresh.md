@@ -24,8 +24,8 @@ And don't get me wrong, I believe having a newsletter is important: it allows yo
 
 So I decided to nuke my old website and start with a fresh slate. I'll also be shifting my focus from entrepreneurship to whatever-the-hell-I-want-to-write-about.
 
-What you can expect is more articles about Web development, which is what I truly enjoy doing, and other tech-related stuff. I might drop a kind of op-ed post every now and then to express my thoughts on important issue, but mostly it will be dev and tech.
+What you can expect is more articles about Web development, which is what I truly enjoy doing, and other tech-related stuff. I might drop a kind of op-ed post every now and then to express my thoughts on important issues, but mostly it will be dev and tech.
 
-As much as I like starting businesses and talking about it, I feel like the entrepreneurship niche is a bit of a dumpster, full of people trying to exploit other people's dreams. And I don't want to be associate with it.
+As much as I like starting businesses and talking about it, I feel like the entrepreneurship niche is a bit of a dumpster, full of people trying to exploit other people's dreams. And I don't want to be associate with them.
 
 *Ad maiora...*

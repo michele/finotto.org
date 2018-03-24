@@ -248,3 +248,12 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Red */
+.theme-base-finotto .sidebar {
+  background-color: #0d6db8;
+}
+.theme-base-finotto .content a,
+.theme-base-finotto .related-posts li a:hover {
+  color: #0d6db8;
+}

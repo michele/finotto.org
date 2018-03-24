@@ -4,9 +4,7 @@ date: 2018-01-04T11:26:07Z
 draft: true
 ---
 
-## Moving from Rails to Go
-
-I’ve been developing in [Rails](http://rubyonrails.org/) since 2005, right after it’s initial release and it’s been a hell of a ride: I’ve built close to one hundred apps, from small ones handling just a few thousands requests a month, to big ones handling millions of requests a month.
+I’ve been developing in [Rails](http://rubyonrails.org/) since 2005, right after it’s initial release, and it’s been a hell of a ride: I’ve built close to one hundred apps, from small ones handling just a few thousands requests a month, to big ones handling millions of requests a month.
 
 I love Ruby and Rails: the code looks beautiful, it makes me super-productive and I can get a prototype up and running in just a few hours. Rails gives me all the tools I need right out of the box and if I need anything else, there’s a huge ecosystem of gems to choose from.
 
@@ -16,7 +14,7 @@ Well, except Rails is damn slow and if there’s one thing I’d rather skip is 
 
 Oh, and Ruby (MRI) is single threaded — thanks GIL! — which is ok if you like to have a huge server bill. Sure you could use JRuby, but that’s like killing a fly with a cannonball.
 
-And finally, running Rails feels bloated, not Java-bloated, but still bloated. A basic Rails app will need a few hundred megs of RAM and it brings with it a shitload of dependencies. And one you have several microservices, often exposing just few endpoints, it makes a lot of difference on your server bill.
+And finally, running Rails feels bloated, not Java-bloated, but still bloated. A basic Rails app will need at least a hundred megs of RAM and it brings with it a shitload of dependencies. And when you have a few running, it makes a lot of difference on your server bill.
 
 So as I was trying to scale a few microservices, I decided to give Go a try.
 
@@ -62,9 +60,9 @@ In contrast, I’ve seen lots of Ruby or Java code try to deal with exceptions i
 
 ### The honeymoon still hasn’t ended
 
-As you might have guessed, my love affair with Go is still going strong after even after a few years, it feels like a never-ending honeymoon.
+As you might have guessed, my love affair with Go is still going strong even after a few years, it feels like a never-ending honeymoon.
 
-These days, 90% of what I write is in Go, not because I blindly abide to it, but because I truly believe is the best tool for what I have to accomplish.
+These days, 90% of what I write is in Go, not because I blindly abide to it, but because I truly believe it is the best tool for what I have to accomplish.
 
 Go is such a versatile language and such a joy to use. I urge everyone to give it a try, I’m sure you’re going to love it or at least appreciate its elegance.
 

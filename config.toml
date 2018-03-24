@@ -4,5 +4,5 @@ title = "Michele Finotto"
 theme = "hyde"
 
 [params]
-themeColor = "theme-base-0d"
+themeColor = "theme-base-finotto"
 description = "Containerized backend developer. Gopher with a knack for rubies."
