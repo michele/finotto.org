@@ -29,7 +29,7 @@ PostgreSQL, MySQL, Redis, Memcached, InfluxDB, DynamoDB, AWS Aurora, RethinkDB, 
 
 #### Tools
 
-Kubernetes, AWS ECS, AWS CloudFormation, Docker
+Kubernetes, Docker, AWS ECS, AWS CloudFormation, AWS Lambda
 
 ### Dev Environment
 
