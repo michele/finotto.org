@@ -1,1 +1,5 @@
+# Redirect domain aliases to primary domain
+http://beta.finotto.io/* https://finotto.org/:splat 301!
+http://www.finotto.org/* https://finotto.org/:splat 301!
+http://finotto.org/* https://finotto.org/:splat 301!
 /*  /post/starting-afresh/  301

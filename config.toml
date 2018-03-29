@@ -1,4 +1,4 @@
-baseURL = "http://beta.finotto.io/"
+baseURL = "https://finotto.org/"
 languageCode = "en-us"
 title = "Michele Finotto"
 theme = "hyde"
