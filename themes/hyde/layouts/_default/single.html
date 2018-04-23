@@ -7,6 +7,11 @@
   {{ .Content }}
 </div>
 
+{{ if eq .Type "post" -}}
+<h2>Comments</h2>
+<div id="yaks-container"></div>
+<script defer src="https://michele.dembed.yaks.it/yaks-embed.js" type="text/javascript"></script>
+{{ end }}
 {{ if .Site.DisqusShortname -}}
 <h2>Comments</h2>
 {{ template "_internal/disqus.html" . }}
