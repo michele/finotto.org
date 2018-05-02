@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://finotto.org/sitemap.xml
