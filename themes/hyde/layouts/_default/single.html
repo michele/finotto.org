@@ -10,6 +10,9 @@
 {{ if eq .Type "post" -}}
 <h2>Comments</h2>
 <div id="yaks-container"></div>
+<script type="text/javascript">
+  var yaksPostUrl='{{ .Permalink }}'
+</script>
 <script defer src="https://michele.dembed.yaks.it/yaks-embed.js" type="text/javascript"></script>
 {{ end }}
 {{ if .Site.DisqusShortname -}}
