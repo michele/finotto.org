@@ -1,8 +1,60 @@
 baseURL = "https://finotto.org/"
 languageCode = "en-us"
 title = "Michele Finotto"
-theme = "hyde"
+theme = "hello-friend"
 
 [params]
 themeColor = "theme-base-finotto"
 description = "Containerized backend developer. Gopher with a knack for rubies."
+# dir name of your blog content (default is `content/posts`)
+contentTypeName = "post"
+# "light" or "dark"
+defaultTheme = "light"
+# if you set this to 0, only submenu trigger will be visible
+showMenuItems = 4
+# Show reading time in minutes for posts
+showReadingTime = true
+
+[languages]
+  [languages.en]
+    title = "Michele Finotto"
+    subtitle = "Backend Developer. Gopher. Tinkerer."
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    writtenBy = "Written by"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    minuteReadingTime = "min read"
+    dateFormatSingle = "2006-01-02"
+    dateFormatList = "2006-01-02"
+    # leave empty to disable, enter display text to enable
+    # lastModDisplay = ""
+
+    [languages.en.params.logo]
+      logoText = "Michele Finotto"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+    # [languages.en.menu]
+    #   [[languages.en.menu.main]]
+    #     identifier = "about"
+    #     name = "About"
+    #     url = "/about/"
+    #   [[languages.en.menu.main]]
+    #     identifier = "consulting"
+    #     name = "Consulting"
+    #     url = "/consulting/"
+    #   [[languages.en.menu.main]]
+    #     identifier = "newsletter"
+    #     name = "Newsletter"
+    #     url = "/newsletter/"
+    #   [[languages.en.menu.main]]
+    #     identifier = "now"
+    #     name = "Now"
+    #     url = "/now/"

@@ -1,5 +1,6 @@
 ---
 title: "What I'm doing now"
+linkTitle: "Now"
 date: 2018-03-11T21:03:13Z
 menu: main
 url: /now

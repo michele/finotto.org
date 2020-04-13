@@ -1,5 +1,6 @@
 ---
 title: "About Me"
+linkTitle: "About"
 date: 2017-12-11T21:03:13Z
 menu: main
 url: /about
