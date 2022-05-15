@@ -9,7 +9,7 @@ url: /consulting
 
 For the past 20 years, I've been working on all kinds of Web projects, but my love has always been the backend.
 
-Even though most of my time is spent as the lead backend developer of an Italian startup called NearIT, where I get to play with all kinds of crazy technologies and help it scale to almost 1 billion requests a month, I'm happy to help small teams with their backend problems, especially in regards to chosing the right architecture, scaling and building a rock solid infrastructure.
+Even though most of my time is spent working at [Akiflow](https://akiflow.com/), where I get to play with all kinds of crazy technologies, I'm happy to help small teams with their backend problems, especially in regards to chosing the right architecture, scaling and building a rock solid infrastructure.
 
 If you're happy, I'm happy. If you're not happy, I'm not happy. You can be guaranteed I'll be doing my best to make sure we're both satisfied with our relationship.
 
