@@ -1,6 +1,7 @@
 ---
 title: "Starting Afresh"
 date: 2018-03-29T13:53:19Z
+draft: true
 ---
 
 If you're reading this, there's a 99% chance you are coming from a search engine and you're looking for something that's no longer here. Let me explain why...
